@@ -270,7 +270,7 @@ void MQTTClient::SensorDiscover(uint16_t id)
                 "\"unique_id\": \"" NEXUS433 "_%s_%04x_%s\","
                 "\"device\":"
                     "{"
-                    "\"name\": \"Temperatue Sensor Id:%02X ch %d\","
+                    "\"name\": \"Temperature Sensor Id:%02X ch %d\","
                     "\"model\": \"433 MHz\","
                     "\"identifiers\": [\"%s.%04x\"],"
                     "\"via_device\": \"%s\""
